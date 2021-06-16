@@ -1,4 +1,4 @@
-### hey guys, causs aq (base toin) 
+### CUSCUZ 
 
 
 
@@ -30,8 +30,8 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/ToinNetuh/ToiniuBot.git
-> cd ToiniuBot
+> git clone https://github.com/cuscuz-itz666/botcuscuzv4
+> cd botcuscuzv4
 > bash install.sh
 ```
 
